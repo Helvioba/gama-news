@@ -79,6 +79,10 @@ body {
     color: white;
 }
 
+.cls_NewsContainer img{
+    width: 280px;
+}
+
 /* See More Links */
 .cls_SeeMoreContainer {
     margin-top: 7px;
